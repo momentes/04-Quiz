@@ -3,7 +3,7 @@ Bootcamp Module 04 Challenge - Create a Quiz
 
 This assignment code is to help student to find work by taking a timed quiz on JavaScript fundamentals that stores high scores SO THAT I can gauge my progress compared to my peers
 
-**The acceptance criteria is as follow :**
+# The acceptance criteria is as follow :
 - GIVEN I am taking a code quiz,
 - WWHEN I click the start button THEN a timer starts
 - I am presented with a question
@@ -18,11 +18,10 @@ This assignment code is to help student to find work by taking a timed quiz on J
 - WHEN the game is over
 - THEN I can save my initials and score
 
-**Deployment:**
-1. Website ; https://momentes.github.io/04-Quiz/
+# Project Links:
+https://momentes.github.io/04-Quiz/
 
 **Screenshot**
-How my website looks like
 ![Screenshot](./assets/img/code-quiz-recording.gif)
 
 Thank you
