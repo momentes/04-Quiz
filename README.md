@@ -19,7 +19,7 @@ This assignment code is to help student to find work by taking a timed quiz on J
 - THEN I can save my initials and score
 
 **Deployment:**
-1. Website ; https://momentes.github.io/
+1. Website ; https://momentes.github.io/04-Quiz/
 
 **Screenshot**
 How my website looks like
